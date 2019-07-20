@@ -1,0 +1,11 @@
+name: env-exo-1
+
+dependencies:
+      - python=3.7
+      - jupyter
+      - flask
+      - requests
+      - pandas
+      - scikit-learn
+      - joblib
+      - beautifulsoup4
